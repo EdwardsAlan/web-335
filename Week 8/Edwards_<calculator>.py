@@ -7,6 +7,6 @@ def subtract(x, y):
 def divide(x, y):
     return x / y
 
-print(add(3, 33))
-print(subtract(50, 45))
-print(divide(9, 3))    
+print(add(1, 2))
+print(subtract(4, 1))
+print(divide(8, 2))    
